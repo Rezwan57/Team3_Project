@@ -1,3 +1,8 @@
+/********************************
+Developer: Ubah Kahie
+University ID: 240247612
+Function: This class contains a method that takes two integers as inputs and returns their sum.
+********************************/
 class MathClass {
     add(a, b) {
         return a + b;
