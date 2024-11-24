@@ -1,6 +1,6 @@
 /********************************
-Developer: Full Name
-University ID: ID Here
+Developer: Ubah Kahie
+University ID: 240247612
 Function: This class contains a method that takes two inputs as integers and returns their sum.
 ********************************/
 class MathFunctions {
