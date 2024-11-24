@@ -4,17 +4,10 @@ University ID: 240247612
 Function: This class contains a method that takes two inputs as integers and returns their sum.
 ********************************/
 class MathFunctions {
+    
     static Add(x, y) {
         return x + y;
     }
-<<<<<<< HEAD
-}
-
-// Testing the Add method by logging the result to the console
-console.log(MathFunctions.Add(5, 3)); // Output will be 8
-=======
-
-
     /********************************
     Developer: Rezwan Habib Youhana
     University ID: 240312596
@@ -28,4 +21,3 @@ console.log(MathFunctions.Add(5, 3)); // Output will be 8
 // Testing the Add method by logging the result to the console
 console.log(MathFunctions.Add(5, 3)); // Output will be 8
 console.log(MathFunctions.Power(2, 3)); // Output will be 8
->>>>>>> Rezwan-develop
