@@ -15,4 +15,4 @@ class MathClass {
 
 const math = new MathClass();
 const result = math.Max(5, 10);
-console.log("The maximum value is:", result);  // Output: The maximum value is: 10
+console.log("The maximum value is:", result);
