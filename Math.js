@@ -27,7 +27,7 @@ class MathClass {
     }
 }
 
-// Create an instance of MathClass
+
 const math = new MathClass();
 
 // Example usage of multiply method
