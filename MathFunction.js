@@ -1,8 +1,10 @@
 /********************************
 Developer: Full Name
 University ID: ID Here
-Function: This function takes two inputs as integers and returns their sum.
+Function: This class contains a method that takes two integers as inputs and returns their sum.
 ********************************/
-function Add(x, y) {
-    return x + y;
+class MathFunctions {
+    static Add(x, y) {
+        return x + y;
+    }
 }
