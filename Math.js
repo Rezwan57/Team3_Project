@@ -34,10 +34,10 @@ const math = new MathClass();
 const multiplyResult = math.multiply(5, 10);
 console.log("The product is:", multiplyResult);  // Output: The product is: 50
 
-// Example usage of divide method
+
 const divideResult = math.divide(10, 2);
 console.log("The division result is:", divideResult);  // Output: The division result is: 5
 
-// Handling division by zero
+
 const divideByZeroResult = math.divide(10, 0);
 console.log("Division by zero result:", divideByZeroResult);
