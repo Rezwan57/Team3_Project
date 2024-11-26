@@ -1,26 +1,6 @@
-<<<<<<< HEAD
-/********************************
-Developer: Ubah Kahie
-University ID: 240247612
-Function: This class contains a method that takes two integers as inputs and returns their sum.
-********************************/
-class MathClass {
-    add(a, b) {
-        return a + b;
-    }
-
-    Max(a, b) {
-        return a > b ? a : b;
-    }
-}
-
-const math = new MathClass();
-const result = math.Max(5, 10);
-console.log("The maximum value is:", result);  // Output: The maximum value is: 10
-=======
 class MathClass {
     
-    // Method for multiplication
+    
     multiply(a, b) {
         return a * b;
     }
@@ -39,12 +19,13 @@ const math = new MathClass();
 
 // Example usage of multiply method
 const multiplyResult = math.multiply(5, 10);
-console.log("The product is:", multiplyResult);  // Output: The product is: 50
+console.log("The product is:", multiplyResult);  
 
 
 const divideResult = math.divide(10, 2);
-console.log("The division result is:", divideResult);  // Output: The division result is: 5
+console.log("The division result is:", divideResult);  
 
 
+// Handling division by zero
 const divideByZeroResult = math.divide(10, 0);
 console.log("Division by zero result:", divideByZeroResult);
