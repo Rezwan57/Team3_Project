@@ -1,3 +1,4 @@
+
 class MathClass {
     add(a, b) {
         return a + b;
@@ -6,7 +7,7 @@ class MathClass {
     Max(a, b) {
         return a > b ? a : b;
     }
-     // Method for multiplications
+     // Method for multiplication
     multiply(a, b) {
         return a * b;
     }
@@ -19,13 +20,17 @@ class MathClass {
         return a / b;
     }
 }
+
+// Create an instance of MathClass
 const math = new MathClass();
 
 const multiplyResult = math.multiply(5, 10);
-console.log("The product is:", multiplyResult);  
+console.log("The product is:", multiplyResult);  // Output: The product is: 50
 
 const divideResult = math.divide(10, 2);
-console.log("The division result is:", divideResult);  
+console.log("The division result is:", divideResult);  // Output: The division result is: 5
+
+// Handling division by zero
 const divideByZeroResult = math.divide(10, 0);
 console.log("Division by zero result:", divideByZeroResult);
 
