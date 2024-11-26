@@ -6,7 +6,7 @@ class MathClass {
     Max(a, b) {
         return a > b ? a : b;
     }
-     // Method for multiplication
+     // Method for multiplications
     multiply(a, b) {
         return a * b;
     }
