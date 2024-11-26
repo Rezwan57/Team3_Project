@@ -1,4 +1,5 @@
-
+// finally i have merged from my branch develop to main
+//hello have you find the changes yes/no?
 class MathClass {
     add(a, b) {
         return a + b;
