@@ -1,5 +1,5 @@
-// finally i have merged from my branch nanda-develop to develop
-//hello have you find the changes
+// finally i have merged from my branch develop to main
+//hello have you find the changes yes/no?
 class MathClass {
     
     
