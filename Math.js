@@ -1,4 +1,5 @@
-// finaly=ly i have merged from my branch nanda-develop to develop
+// finally i have merged from my branch nanda-develop to develop
+//hello have you find the changes
 class MathClass {
     
     
